@@ -1,0 +1,10 @@
+* weblocks-utils
+
+Collection of utilities that I use in my weblocks projects
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/weblocks-framework/weblocks-utils.git   |
+| commit  | 00e921b  |
+| systems | weblocks-utils |
+|---------+-------------------------------------------|
+
